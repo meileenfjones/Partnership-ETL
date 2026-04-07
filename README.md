@@ -1,7 +1,7 @@
 # Partnership ETL
 
 __Background__  
-This project supports a clinic’s data needs for outreach, operations, and revenue optimization tied to the Partnership Quality Improvement Program (QIP) — a core revenue driver. Under this program, financial incentives are tied to achieving targeted performance percentages across 11 QIP measures, making timely, accurate data essential for operational planning, reporting, and incentive realization across 135,000 patient members and more than 1.5 million entries of quality measure data.
+This project supports a clinic’s data needs for outreach, operations, and revenue optimization tied to the Partnership Quality Improvement Program (QIP) — a core revenue driver. Under this program, financial incentives are tied to achieving targeted performance percentages across several QIP measures, making timely, accurate data essential for operational planning, reporting, and incentive realization.
 
 __Deliverables__  
 The final product will be a scalable database properly housing all relevant information about these Partnership members and able to support historical and current reporting. 
