@@ -1,0 +1,14 @@
+# for php matching
+pandas>=2.0.0
+SQLAlchemy>=2.0.8
+pykeepass>=4.0.3
+psycopg2>=2.9.6
+prefect==2.14.11
+rapidfuzz>=3.2.0
+pyodbc>=4.0.32
+xlrd>=2.0.1
+
+# for php ETL
+lxml>=4.9.1
+selenium==4.19.0
+webdriver-manager>=4.0.1
